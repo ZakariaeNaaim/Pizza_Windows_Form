@@ -10,8 +10,6 @@ A simple yet functional pizza ordering application built with C# Windows Forms, 
 - 🧀 Multiple pizza size options (Small, Medium, Large)
 - 🍅 Customizable toppings selection
 - 📝 Order summary with calculated total
-- 📋 Order history tracking
-- 🖨️ Receipt printing capability
 
 ## Technologies Used
 
